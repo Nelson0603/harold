@@ -1,0 +1,91 @@
+$Formato:20px;
+
+.nav-menu li a{
+    text-decoration: none;
+}
+
+
+.header-background{
+   
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    gap: 25px;
+    padding: 40px;
+       
+}
+
+.Contacto-left {
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:left;
+    height: 550px;
+    margin-left: 10%;
+    
+}
+
+.Contacto-left h1{
+    text-transform:uppercase;
+}
+
+.Contacto-left p,
+.Contacto-left h1{
+    margin-bottom: 30px;
+}
+
+
+/* SOCIAL*/
+.Socialdos{
+    display: flex;
+    align-items:left;
+    flex-direction: column; 
+    margin-top: 10px;
+    
+    
+    
+}
+
+.linksdos{
+   /* padding-top: 5px;*/
+   margin-top: 10px;
+}
+
+.linksdos a{
+    padding: 4px;
+    text-decoration: none;
+    
+}
+.linksdos a i{
+    font-size: 41px;
+    color:#000000;
+    border-width: 1px;
+    padding: 5px;
+    
+}
+
+
+
+.Formright{
+    background: #D6EAF8;
+    padding: $Formato;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+
+}
+
+/*FOOTER CONTACT*/
+.links a{
+    text-decoration: none;
+    
+}
+
+#CopyRight{
+    display: Grid !important;
+    grid-column: 2/4 !important;  
+    width: 100% !important;
+    padding-top:30px !important;
+    /*padding:100px;*/
+    padding-right:400px !important;
+}

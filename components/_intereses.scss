@@ -1,0 +1,54 @@
+/*INFORMATION LOGO*/
+
+$tabla: relative;
+
+
+div.Imagenes-prueba{
+    display:flex;
+    justify-content: center;
+    position: static;
+   
+}
+
+
+div.Inside_information{
+    
+    margin: -0% 20% ;
+    background: #ffffff;
+    overflow: hidden;
+    position:relative;
+    bottom: 400px;
+    width: 55%;
+    
+
+    
+}
+
+.Inside_information-h1{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.Inside_information-h1,.inside,ul{
+    margin: 10px;
+}
+
+
+.informatio-table{
+   
+    position: $tabla;
+    left: 16em;
+    
+}
+
+th,td{
+    border: 1px solid #000000;
+    padding:7px ;
+    text-align: center;
+}
+#lines{
+    border: none;
+}
+
+
+

@@ -1,0 +1,10 @@
+Web Sobre My
+-(Ya)El sitio debe contener 4 hojas html, debo poder acceder a cualquier pagina con hypervinculos
+- (Ya)Debe Incluir al menos 1 Lista, 1 tabla, 1 Imagen
+-(Ya) Debe contener 1 archivo de hoja de  estylo(Css)
+- (Ya)Su hoja de estylo debe usar  al menos 5 propiedad css diferentes, 5 selectores diferentes css, #id, .class, al  1 @media para  dispositivos moviles
+- (Ya)Debe Utilizar Boostrap 4 aprovechando un componente de boostrap y usando 2 columnas de boostrap
+- (Medio)Las hojas de estilo  deben usar al menos 1 variable,1 ejemplo de anidamiento,al menos 1 uso de la herencia 
+-(Falta) Readme.md incluir una breve reseña que describa mi proyecto, lo que contiene cada archivo y cualquier  otra informacion  adicional que el personal debe conocer acerca de su proyecto.
+
+
